@@ -1,0 +1,3 @@
+# Project exclude paths
+/example/.dart_tool/
+/example/build/
